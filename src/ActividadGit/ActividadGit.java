@@ -8,6 +8,8 @@ public class ActividadGit {
 		int[] subArray = {785675, 56, 5675, 56544, 234};
 		int[] prodArray = {6, 8, 20, 23, 12};
 		
+		int resultado = 0;
+		
 		// User 1 fer la suma dels elements de sumArray
 		
 		
