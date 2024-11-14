@@ -19,6 +19,8 @@ public class ActividadGit {
 		for (int i = 0; i < prodArray.length; i++) {
 			resultadosub = resultadosub + subArray[i];
 		}
+		
+	System.out.print("Los números restados son igual: " +  resultadosub);
 		// User 3 fer la multiplicació dels elements de prodArray
 	}
 
