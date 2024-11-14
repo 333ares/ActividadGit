@@ -16,6 +16,8 @@ public class ActividadGit {
 			resultadoSuma = resultadoSuma + sumArray[i];
 		}
 		
+		System.out.print("Tus números sumados dan " + resultadoSuma);
+		
 		// User 2 fer la resta dels elements de subArray
 		
 		
