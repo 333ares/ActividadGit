@@ -25,6 +25,10 @@ public class ActividadGit {
 	
 	int resultadoprod = 0;
 	
+	for (int i = 0; i < prodArray.length; i++) {
+		resultadoprod = resultadoprod + prodArray[i];
+	}
+	
 	}
 
 }
