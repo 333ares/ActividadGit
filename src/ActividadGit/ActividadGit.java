@@ -28,7 +28,7 @@ public class ActividadGit {
 	for (int i = 0; i < prodArray.length; i++) {
 		resultadoprod = resultadoprod + prodArray[i];
 	}
-	
+	System.out.print("Los números multiplicados son igual: " + resultadoprod);
 	}
 
 }
