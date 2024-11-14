@@ -16,9 +16,21 @@ public class ActividadGit {
 		
 		// User 2 fer la resta dels elements de subArray
 		
+		int resultadosub = 0;//Creamos la variable
 		
+		for (int i = 0; i < prodArray.length; i++) {
+			resultadosub = resultadosub + subArray[i];
+		}
 		
+	System.out.print("Los números restados son igual: " +  resultadosub);
 		// User 3 fer la multiplicació dels elements de prodArray
+	
+	int resultadoprod = 0;
+	
+	for (int i = 0; i < prodArray.length; i++) {
+		resultadoprod = resultadoprod + prodArray[i];
+	}
+	System.out.print("Los números multiplicados son igual: " + resultadoprod);
 	}
 
 }
