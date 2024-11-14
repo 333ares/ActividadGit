@@ -11,8 +11,14 @@ public class ActividadGit {
 		int resultado = 0;
 		
 		// User 1 fer la suma dels elements de sumArray
+				
+		int resultadoSuma = 0; //Creamos la variable para almacenar el resultado.
+
+		for (int i = 0; i < sumArray.length; i++) {
+			resultadoSuma = resultadoSuma + sumArray[i];
+		}
 		
-		
+		System.out.print("Tus números sumados dan " + resultadoSuma);
 		
 		// User 2 fer la resta dels elements de subArray
 		
