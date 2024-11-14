@@ -9,8 +9,8 @@ public class ActividadGit {
 		int[] prodArray = {6, 8, 20, 23, 12};
 		
 		// User 1 fer la suma dels elements de sumArray
-		
-		
+				
+		int resultadoSuma = 0; //Creamos la variable para almacenar el resultado.
 		
 		// User 2 fer la resta dels elements de subArray
 		
