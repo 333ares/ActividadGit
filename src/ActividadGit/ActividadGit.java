@@ -14,8 +14,8 @@ public class ActividadGit {
 		
 		// User 2 fer la resta dels elements de subArray
 		
-		
-		
+		int resultadosub = 0;//Creamos la variable
+					
 		// User 3 fer la multiplicació dels elements de prodArray
 	}
 
